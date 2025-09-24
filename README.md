@@ -1,2 +1,2 @@
-# Mi-Amigo-Secreto
+# Amigo-Secreto
 Juego
